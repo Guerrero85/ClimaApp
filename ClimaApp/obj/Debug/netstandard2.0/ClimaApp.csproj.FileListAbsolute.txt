@@ -1,0 +1,14 @@
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ClimaApp.deps.json
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ClimaApp.dll
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ref\ClimaApp.dll
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ClimaApp.pdb
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.csprojAssemblyReference.cache
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.AssemblyInfoInputs.cache
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.AssemblyInfo.cs
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.csproj.CoreCompileInputs.cache
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.dll
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ref\ClimaApp.dll
+D:\ESD-ISO\Codigo Fuentes\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.pdb
