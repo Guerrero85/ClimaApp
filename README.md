@@ -3,5 +3,4 @@ Beautiful main layout of a weather app in Xamarin Forms
 
 
 
-
-https://raw.githubusercontent.com/Guerrero85/ClimaApp/blob/master/Screenshot_1599345254.png
+![ClimaApp](https://user-images.githubusercontent.com/34452566/92521987-1a0f2f00-f1ec-11ea-9ceb-89f93cbfdaa8.png)
